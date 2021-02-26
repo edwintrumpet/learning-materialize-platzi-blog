@@ -1,4 +1,4 @@
-<h1 align="center">Mi materialize blog</h1>
+<h1 align="center">My materialize blog</h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/commit-activity/m/edwintrumpet/learning-materialize-platzi-blog?logo=github" alt="commit activity badge">
