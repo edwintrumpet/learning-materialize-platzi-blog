@@ -7,6 +7,8 @@
 
 Platzi Materialize course project, blog.
 
+website https://edwintrumpet.github.io/learning-materialize-platzi-blog/
+
 ## Stack
 
 - Materialize
